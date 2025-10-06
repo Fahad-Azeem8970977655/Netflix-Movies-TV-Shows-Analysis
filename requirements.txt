@@ -1,0 +1,9 @@
+
+
+
+```txt
+streamlit
+pandas
+matplotlib
+seaborn
+plotly
